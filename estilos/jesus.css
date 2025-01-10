@@ -7,11 +7,12 @@
 }
 
 body {
-    background-color: white;
+    background-color: beige;
     
 }
 
 main {
+    background-color: white;
     display: block;
     margin: auto;
     max-width: 800px;
@@ -36,6 +37,7 @@ img {
     display: block;
     margin: auto;
     padding: 20px 0px;
+    max-width: 470px;
 }
 
 tr, td {
